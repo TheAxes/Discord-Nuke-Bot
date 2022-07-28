@@ -1,18 +1,20 @@
+import os
+os.system('pip install discord')
+os.system('pip install colorama')
 import discord
 from discord.ext import commands
 import random
 from discord import Permissions
 from colorama import Fore, Style
 import asyncio
-import os
 
-#PASTE YOUR BOT TOKEN
-token = ""
+
+#Bot Token 
+token = input(f"Enter Your Bot Token: ")
 #Enter Prefix For Your Bot
-prefix = ""
+prefix = input(f"Enter Prefix For Your Bot: ")
 #enter Your User id like - Example#6969
-owner = ""
-
+owner = input(f"Enter Your Username With Tag: ")
 
 SPAM_CHANNEL =  "Nuke Test"
 SPAM_MESSAGE = "@everyone Nuked ","@everyone Cry About it","@everyone  Beamed @everyone ","@everyone Nuked "
