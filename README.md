@@ -20,4 +20,4 @@ cd Discord-Nuke-Bot
 python3 main.py
 ```
 **The Bot Interface Will Be Launch!**
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/theaxes)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AshOp)
