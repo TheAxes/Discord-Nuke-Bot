@@ -11,13 +11,13 @@ A Discord Nuke Bot Made By TheAxes [ Give Credits ] If You Use
 
 # **Terminal | Termux Installation (For Replit Use Yt Tutorial)**
 ```
-    git clone https://github.com/TheAxes/Discord-Nuke-Bot
+git clone https://github.com/TheAxes/Discord-Nuke-Bot
 ```
 ```
-    cd Discord-Nuke-Bot
+cd Discord-Nuke-Bot
 ```
 ```
-    python3 main.py
+python3 main.py
 ```
 **The Bot Interface Will Be Launch!**
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/theaxes)
