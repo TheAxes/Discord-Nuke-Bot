@@ -1,6 +1,11 @@
 # Discord-Nuke-Bot
 A Discord Nuke Bot Made By TheAxes [ Give Credits ] If You Use
 
+ # Updated Version 2
+
+[Click Here](https://github.com/TheAxes/Discord-Nuke-Bot-V2.git)
+
+
 # Links 🌐
 
 [Replit](https://replit.com/@AxeHelper/NukeBotByTheAxes?v=1)
